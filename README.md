@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Saumya-Shah17
 - 👀 I’m interested in backend devlopment and coding projects.
-- 🌱 I’m currently learning DBMS,AIML,JS(With frameworks) and some more backend related stuff.
+- 🌱 I’m currently learning DBMS,AIML,Deep Learning and other important industry related stuff.
 - 💞️ I’m looking to collaborate on backend technical projects.
-- 📫 How to reach me LinkedIn - [Saumya Shah](www.linkedin.com/in/saumya-shah-9b2579273), Instagram - @uniquely.fascinating
-- 😄 Pronouns: 
+- 📫 How to reach me LinkedIn - [Saumya Shah](www.linkedin.com/in/saumya-shah-9b2579273), Instagram - [@uniquely.fascinating](https://www.instagram.com/uniquely.fascinating/)
 - ⚡ Fun fact: When i am focused on debugging time flies without any distractions till there is perfect output.
 
 <!---
